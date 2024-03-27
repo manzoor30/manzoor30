@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manzoor Ahmadi</h1>
 <h3 align="center">Computer Science Student | Video Game Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif#keepProtocol">
+<img align="right" alt="Coding" width="4000" src="https://www.silextechnology.com/hubfs/Blog_Images/1_ktMRyTnut5YK_0LoEJebUA.gif#keepProtocol">
 
 - 🔭 I’m currently working on **Java**
 
