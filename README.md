@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manzoor Ahmadi</h1>
 <h3 align="center">Computer Science Student | Video Game Enthusiast</h3>
-<img align="right" alt="Coding" width="200" src="https://giffiles.alphacoders.com/363/36302.gif">
+<img align="right" alt="Coding" width="600" src="https://giffiles.alphacoders.com/363/36302.gif">
 
 - 🔭 I’m currently working on **Java**
 
